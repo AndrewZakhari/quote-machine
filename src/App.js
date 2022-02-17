@@ -71,11 +71,11 @@ class App extends React.Component {
      {/*Also get the author on first load */}
      <div id="Quote_author">
        <h1>,,</h1>
-     <h3 id="text" className='text-center'>{
+     <h3 id="text" className='text-white text-center'>{
      this.state.quote
      }</h3> 
       <hr/> 
-     <h4 id="author" className='text-center'>{
+     <h4 id="author" className='text-white text-center'>{
        this.state.author
  }
   </h4></div>
