@@ -13,7 +13,11 @@ body{
     margin-bottom: 10vh;
 }
 #text{
+    color: white;
     border-radius: 20px;
+}
+#author{
+    color: white;
 }
 #buttons{
     gap: 10px;
